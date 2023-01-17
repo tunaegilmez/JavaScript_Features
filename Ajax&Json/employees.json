@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Tuna Eğilmez",
+    "department": "Bilişim",
+    "salary": 15000
+  },
+  {
+    "name": "Zeynep Dağlar",
+    "department": "Bilişim",
+    "salary": 20000
+  },
+  {
+    "name": "Yaşar Can",
+    "department": "Pazarlama",
+    "salary": 30000
+  }
+]
